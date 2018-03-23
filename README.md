@@ -11,4 +11,7 @@ Dataset can be downloaded from http://ritual.uh.edu/wp-content/uploads/2017/08/a
 - Keras
 - Tensorflow or Theano
 - Gensim
-- 
+- NLTK
+- Sklearn
+- Matplotlib
+- Numpy
